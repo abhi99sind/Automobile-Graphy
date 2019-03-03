@@ -1,0 +1,28 @@
+
+.adjust
+{ 
+	width:100%;
+	height:50%;
+	padding:30px;
+}
+td
+{ 
+	text-align:center;
+	padding:5px;
+	width:50%;
+}
+p
+{
+	text-align:center;
+}
+.t
+{	
+	border:1px solid;
+	font-size:4px; 
+}
+.left
+{ 
+	font-family:Lucida Handwriting;
+	font-size:20px;
+	border:1px;
+}
