@@ -2,8 +2,8 @@
 .adjust
 { 
 	width:100%;
-	height:50%;
-	padding:30px;
+	height:60%;
+	padding:60px;
 }
 td
 { 
@@ -13,7 +13,7 @@ td
 }
 p
 {
-	text-align:center;
+	text-align:left;
 }
 .t
 {	
@@ -22,7 +22,7 @@ p
 }
 .left
 { 
-	font-family:Lucida Handwriting;
+	font-family: Monospace;
 	font-size:20px;
 	border:1px;
 }
